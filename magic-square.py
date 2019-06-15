@@ -8,7 +8,7 @@ square_1 = [ [1,2,3],
 square_2 = [ [2,7,6],
              [9,5,1],
              [4,3,8] ]
-# non magic square diff size
+# non magic square different size
 square_3 = [ [10,4],
              [3,17] ]
            
