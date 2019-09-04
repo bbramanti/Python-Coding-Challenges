@@ -5,3 +5,7 @@
 # **Rotate Matrix:**  
 **problem explanation:** rotate a NxN matrix clockwise  
 **solution:** rotate-matrix.py  
+
+# **Reverse Linked List:**  
+**problem explanation:** reverse a linked list in place  
+**solution:** reverse-linked-list.py 
